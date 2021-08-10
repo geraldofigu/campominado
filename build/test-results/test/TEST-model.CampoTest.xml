@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.CampoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-08-09T15:32:16" hostname="Geraldos-MacBook-Air.local" time="0.317">
+  <properties/>
+  <testcase name="deveAlternarMarcacao()" classname="model.CampoTest" time="0.091"/>
+  <testcase name="deveAdicionarVizinhoDeBaixo()" classname="model.CampoTest" time="0.002"/>
+  <testcase name="naoDeveAbrirCampoNaoMinadoMarcado()" classname="model.CampoTest" time="0.01"/>
+  <testcase name="deveAbrirComVizinhosNaoAbrindoMinado1()" classname="model.CampoTest" time="0.003"/>
+  <testcase name="deveAbrirComVizinhosNaoAbrindoMinado2()" classname="model.CampoTest" time="0.001"/>
+  <testcase name="deveAdicionarVizinhoDaEsquerda()" classname="model.CampoTest" time="0.002"/>
+  <testcase name="deveAdicionarVizinhoDeCima()" classname="model.CampoTest" time="0.002"/>
+  <testcase name="deveTestarValorPadraoMarcacao()" classname="model.CampoTest" time="0.002"/>
+  <testcase name="deveAlternarMarcacaoDuasVezes()" classname="model.CampoTest" time="0.002"/>
+  <testcase name="deveAbrirCampoNaoMinadoNaoMarcado()" classname="model.CampoTest" time="0.002"/>
+  <testcase name="deveAbrirComVizinhos()" classname="model.CampoTest" time="0.007"/>
+  <testcase name="deveAdicionarVizinhoDaDiagonal()" classname="model.CampoTest" time="0.002"/>
+  <testcase name="deveAbrirMinadoNaoMarcado()" classname="model.CampoTest" time="0.014"/>
+  <testcase name="naoDeveAdicionarVizinho()" classname="model.CampoTest" time="0.001"/>
+  <testcase name="deveAdicionarVizinhoDaDireita()" classname="model.CampoTest" time="0.138"/>
+  <testcase name="naoDeveAbrirCampoMinadoMarcado()" classname="model.CampoTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
